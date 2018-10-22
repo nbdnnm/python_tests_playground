@@ -1,1 +1,1 @@
-# python_tests_playground
+Experiments with python testing
